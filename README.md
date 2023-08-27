@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manas-89
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on ... Git Hub
+- 💞️ I’m looking to collaborate on Git Hub
 - 📫 How to reach me manasala7.av@gmail.com
 
 <!---
